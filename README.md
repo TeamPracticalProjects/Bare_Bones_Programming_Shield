@@ -7,7 +7,7 @@ and software to provide a complete "Bare Bones" Programmer environment.
 
 In the context of this project, a "bare bones" microcontroller means a microcontroller chip that may be used in an
 embedded project without requiring any added electronic components whatsoever.  Complete documentation and support is
-provided for dual inline package (DIP) versions od these particular microcontroller chips.
+provided for dual inline package (DIP) versions of these particular microcontroller chips.
 
 This Repository includes complete documentation for:
 1. Understanding and building your own "Bare Bones" Programmer.
